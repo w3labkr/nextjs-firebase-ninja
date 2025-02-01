@@ -1,8 +1,12 @@
-# NextJS Supabase Dashboard
+# NextJS 14 Supabase blog
 
 This is a dashboard starter template for the [NextJS](https://nextjs.org) 14 app router using supabase based on [shadcn-ui](https://ui.shadcn.com).
 
-Denpendency
+## Screenshots
+
+![screenshot](./screenshot.png)
+
+## Denpendencies
 
 - NextJS 14 + Typescript + Tailwind
 - Shadcn UI (Radix UI) + TimePicker + TagInput
@@ -17,9 +21,10 @@ Denpendency
 
 ## Table of Contents
 
-- [NextJS Supabase Dashboard](#nextjs-supabase-dashboard)
-  - [Table of Contents](#table-of-contents)
+- [NextJS 14 Supabase blog](#nextjs-14-supabase-blog)
   - [Screenshots](#screenshots)
+  - [Denpendencies](#denpendencies)
+  - [Table of Contents](#table-of-contents)
   - [Folder and file Structure](#folder-and-file-structure)
   - [Getting Started](#getting-started)
   - [Generate Favicon](#generate-favicon)
@@ -28,10 +33,6 @@ Denpendency
   - [Troubleshooting](#troubleshooting)
   - [License](#license)
   - [Reference](#reference)
-
-## Screenshots
-
-![screenshot](./screenshot.png)
 
 ## Folder and file Structure
 
@@ -69,10 +70,10 @@ Find and replace the following text in `supabase/seed.sql` and run sql.
 - `YOUR_BUCKET_ID`
 - `username@example.com`
 
-Cloning a repository.
+Clone the repository to the current directory.
 
 ```shell
-git clone https://github.com/w3labkr/nextjs-supabase-dashboard.git
+git clone https://github.com/w3labkr/nextjs14-supabase-blog.git .
 ```
 
 Install all modules listed as dependencies.
